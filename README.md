@@ -1,14 +1,15 @@
-# Tên dự án: Trang giới thiệu Khoa Công nghệ Thông tin - Trường ĐH Khoa học (Đại học Huế)
+# Tên dự án: Landing Page Landing Page - Thành Restaurant (Ẩm thực & Nhà hàng)
 
-* **Mô tả:** Thiết kế và phát triển giao diện trang thông tin tổng quan cho Khoa CNTT. Trang web tập trung vào việc trình bày lịch sử hình thành, mục tiêu đào tạo và chi tiết các ngành học thông qua hệ thống bảng biểu và danh sách trực quan.
+* **Mô tả:** Thiết kế và phát triển giao diện trang chủ cho nhà hàng Thành Restaurant. Trang web tập trung vào việc khơi gợi vị giác thông qua hình ảnh món ăn chất lượng cao (Premium Quality), trình bày không gian nhà hàng sang trọng và hệ thống menu trực quan.
 
-* **Công nghệ sử dụng:** HTML5, CSS3 (Phân tách cấu trúc nội dung và định dạng giao diện).
+* **Công nghệ sử dụng:** HTML5, CSS3 (Flexbox/Grid), Google Fonts.
 
 * **Tính năng nổi bật:**
-    * **Tiêu đề (Header):** Sử dụng hệ thống thẻ H1-H2 phân cấp rõ ràng, dễ theo dõi.
-    * **Bố cục nội dung:** Kết hợp hình ảnh minh họa với văn bản theo dạng dòng chảy (Flow), tạo cảm giác dễ đọc.
-    * **Bảng dữ liệu (Table):** Khung chương trình đào tạo được trình bày bằng bảng chuẩn, có định dạng đường viền và căn chỉnh chuyên nghiệp.
-    * **Danh sách hướng nghiên cứu:** Sử dụng danh sách có thứ tự (Ordered List) để phân loại các nhóm chuyên môn.
+    * **Thanh điều hướng (Navigation):** Bo góc mềm mại với tông màu cam đặc trưng của ngành F&B, đầy đủ các mục (Thực đơn, Khuyến mãi, Liên hệ).
+    * **Hero Section:** Sử dụng hình ảnh Banner tràn viền cực nét với hiệu ứng làm mờ hậu cảnh, làm nổi bật thông điệp "Thành Restaurant".
+    * **Giới thiệu (About Us):** Bố cục dạng lưới (Grid) kết hợp giữa nội dung chữ căn giữa và các hình ảnh món ăn đặc sắc hai bên, tạo sự cân đối thị giác.
+    * **Thư viện hình ảnh:** Phân loại rõ ràng các khu vực "Của món nướng ưu đãi", "Trang trí đẹp mắt" giúp thực khách dễ dàng hình dung về dịch vụ.
+    * **Hệ thống Menu chân trang:** Hiển thị danh mục món ăn tiêu biểu theo dạng tròn đồng nhất, chuẩn UI cho trang web ẩm thực.
 
-* **Mục tiêu bài tập:** Thực hành kỹ năng xây dựng cấu trúc văn bản HTML chuẩn SEO cơ bản, quản lý thư mục dự án và trình bày dữ liệu dạng bảng trong lập trình Front-end.
+* **Mục tiêu bài tập:** Thực hành kỹ năng sắp xếp bố cục hình ảnh phức tạp, sử dụng màu sắc tương phản để kích thích thị giác và quản lý các thành phần UI (User Interface) trong ngành dịch vụ.
 
