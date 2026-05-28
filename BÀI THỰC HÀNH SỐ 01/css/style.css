@@ -1,0 +1,153 @@
+:root {
+    --primary-color: #ee4d2d;
+    --content-width: 1200px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "inherit", sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+.header {
+    width: var(--content-width);
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__logo img {
+    height: 80px;
+}
+
+.header__menu {
+    background-color: var(--primary-color);
+    padding: 12px 30px;
+    border-radius: 50px;
+}
+
+.header__menu > ul {
+    display: flex;
+}
+
+.header__menu > ul > li {
+    margin: 0 15px;
+}
+
+.header__menu > ul > li > a {
+    color: #fff;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.active {
+    border-bottom: 2px solid #fff;
+}
+
+.main__banner {
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.main__banner img {
+    width: 100%;
+}
+
+.main__info {
+    width: var(--content-width);
+    margin: 0 auto 50px;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.info__content {
+    flex: 1;
+    text-align: center;
+}
+
+.info__content h3 {
+    font-size: 22px;
+}
+
+.info__content .brand-name {
+    color: var(--primary-color);
+    margin: 10px 0 20px;
+    font-size: 26px;
+}
+
+.info__content p {
+    line-height: 1.8;
+    margin-bottom: 25px;
+}
+
+.btn-book {
+    padding: 10px 35px;
+    border: 2px solid var(--primary-color);
+    border-radius: 20px;
+    color: var(--primary-color);
+    font-weight: bold;
+}
+
+.main__gallery {
+    width: var(--content-width);
+    margin: 0 auto 40px;
+    display: flex;
+    gap: 20px;
+}
+
+.gallery__left {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.gallery__right {
+    flex: 1;
+}
+
+.gallery__item {
+    position: relative;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.label-img {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 140px;
+}
+
+.label-img-large {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 180px;
+}
+
+.footer {
+    background-color: #000;
+    padding: 20px 0;
+}
+
+.footer img {
+    width: var(--content-width);
+    margin: 0 auto;
+}
