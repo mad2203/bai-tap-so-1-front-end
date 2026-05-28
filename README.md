@@ -12,8 +12,3 @@
 
 * **Mục tiêu bài tập:** Thực hành kỹ năng xây dựng cấu trúc văn bản HTML chuẩn SEO cơ bản, quản lý thư mục dự án và trình bày dữ liệu dạng bảng trong lập trình Front-end.
 
----
-### 👤 Thông tin thực hiện
-* **Sinh viên:** [Tên của bạn]
-* **Mã số sinh viên:** [MSSV của bạn]
-* **Bài tập số:** 01
